@@ -1,0 +1,148 @@
+,Restaurant_ID,Name,City,Alcohol_Service,Smoking_Allowed,Price,Franchise,Area,Parking,Cuisine,Overall_Rating,Food_Rating,Service_Rating
+0,132560,Puesto de Gorditas,Ciudad Victoria,No,Yes,Low,No,Open,Public,Regional,0.5,1.0,0.25
+1,132561,Cafe Ambar,Ciudad Victoria,No,No,Low,No,Closed,Limited,Free,0.75,1.0,1.0
+2,132564,Church's,Ciudad Victoria,No,No,Low,No,Closed,Limited,Free,1.25,1.25,1.5
+3,132572,Cafe Chaires,San Luis Potosi,No,No,Low,No,Closed,Yes,Cafeteria,1.0,1.0,0.9333333333333333
+4,132583,McDonalds Centro,Cuernavaca,No,No,Low,Yes,Closed,Limited,American,1.0,1.0,1.25
+5,132584,Gorditas Doña Tota,Ciudad Victoria,No,No,Medium,Yes,Closed,Yes,Mexican,1.3333333333333333,1.5,1.0
+6,132594,Tacos De Barbacoa Enfrente Del Tec,Ciudad Victoria,No,No,Low,No,Open,Public,Mexican,0.6,1.2,0.6
+7,132608,Hamburguesas La Perica,Ciudad Victoria,No,Yes,Low,Yes,Open,Public,Mexican,1.0,1.1666666666666667,0.8333333333333334
+8,132609,Pollo Frito Buenos Aires,Ciudad Victoria,No,No,Low,Yes,Closed,Yes,Fast Food,0.6,0.6,0.6
+9,132613,Carnitas Mata,Ciudad Victoria,No,Yes,Medium,Yes,Closed,Yes,Mexican,1.1666666666666667,1.3333333333333333,1.0
+10,132626,La Perica Hamburguesa,Ciudad Victoria,No,No,Medium,Yes,Closed,Yes,Italian,1.25,1.0,1.0
+11,132630,Palomo Tec,Ciudad Victoria,No,No,Low,No,Closed,Limited,Mexican,1.1666666666666667,1.1666666666666667,1.0
+12,132654,Carnitas Mata  Calle 16 de Septiembre,Ciudad Victoria,No,No,Low,No,Closed,Limited,Free,0.25,0.25,0.25
+13,132660,Carnitas Mata Calle Emilio Portes Gil,Ciudad Victoria,No,No,Low,No,Closed,Limited,Free,1.4,1.4,1.0
+14,132663,Tacos Abi,Ciudad Victoria,No,No,Low,No,Closed,Limited,Mexican,0.5,0.5,0.6666666666666666
+15,132665,Tacos Correcaminos,Ciudad Victoria,No,No,Low,No,Closed,Limited,Mexican,0.8,0.8,1.0
+16,132667,Little Pizza Emilio Portes Gil,Ciudad Victoria,No,No,Low,Yes,Closed,Limited,Armenian,1.25,2.0,1.25
+17,132668,Tacos El Guero,Ciudad Victoria,No,No,Low,No,Closed,Limited,Mexican,1.0,1.0,1.0
+18,132706,Gorditas Dona Tota,Ciudad Victoria,No,No,Medium,Yes,Closed,Public,Mexican,0.75,1.25,1.0
+19,132715,Tacos De La Estacion,Ciudad Victoria,No,No,Low,No,Open,Limited,Mexican,1.0,1.0,0.5
+20,132717,Tortas Hawaii,Ciudad Victoria,No,No,Medium,No,Closed,Public,Fast Food,1.3333333333333333,1.3333333333333333,1.0
+21,132723,Gordas De Morales,San Luis Potosi,Full Bar,Smoking Section,Medium,No,Closed,Public,Mexican,1.4166666666666667,1.3333333333333333,1.25
+22,132732,Taqueria El Amigo ,Ciudad Victoria,No,No,Low,No,Open,Limited,Mexican,0.625,0.875,1.0
+23,132733,Little Caesars,Ciudad Victoria,No,No,Medium,Yes,Closed,Yes,Pizzeria,1.3,1.3,1.2
+24,132740,Carreton De Flautas Y Migadas,Ciudad Victoria,No,Yes,Low,No,Open,Limited,Mexican,0.75,1.25,0.625
+25,132754,Cabana Huasteca,San Luis Potosi,No,No,Medium,No,Closed,Limited,Mexican,1.4615384615384615,1.4615384615384615,1.3076923076923077
+26,132755,La Estrella De Dimas,San Luis Potosi,No,No,Medium,No,Closed,Public,Mexican,1.8,2.0,1.6
+27,132766,Mikasa,Cuernavaca,Wine & Beer,No,Medium,No,Closed,Yes,Japanese,0.6666666666666666,1.0,0.6666666666666666
+28,132767,Restaurant Familiar El Chino,Jiutepec,Wine & Beer,Yes,Medium,No,Open,Yes,Vietnamese,1.1666666666666667,1.3333333333333333,1.1666666666666667
+29,132768,Mariscos Tia Licha,Cuernavaca,No,No,Medium,Yes,Closed,Limited,Family,1.6,1.7,1.4
+30,132773,El Cotorreo,Cuernavaca,Wine & Beer,Yes,Low,No,Open,Limited,Family,1.5,1.25,1.75
+31,132773,El Cotorreo,Cuernavaca,Wine & Beer,Yes,Low,No,Open,Limited,Mexican,1.5,1.25,1.75
+32,132825,Puesto De Tacos,San Luis Potosi,No,No,Low,No,Open,Limited,Mexican,1.28125,1.34375,0.9375
+33,132830,Rincon Huasteco,San Luis Potosi,No,No,Low,No,Closed,Limited,Free,0.9166666666666666,1.1666666666666667,0.9166666666666666
+34,132834,Gorditas Doa Gloria,San Luis Potosi,No,No,Low,No,Closed,Public,Mexican,1.0,1.12,0.88
+35,132845,Cenaduria El Rincón De Tlaquepaque,San Luis Potosi,No,No,Medium,No,Closed,Limited,Mexican,0.8,0.6,0.8
+36,132846,El Lechon Potosino ,San Luis Potosi,No,Yes,Low,No,Open,Limited,International,1.4,1.4,1.2
+37,132847,Don Burguers,San Luis Potosi,No,No,Low,No,Open,Limited,Free,1.1666666666666667,1.3333333333333333,0.6666666666666666
+38,132851,KFC,San Luis Potosi,No,No,Low,No,Closed,Yes,American,1.4285714285714286,1.0,1.0
+39,132851,KFC,San Luis Potosi,No,No,Low,No,Closed,Yes,Game,1.4285714285714286,1.0,1.0
+40,132854,Sirlone,San Luis Potosi,Wine & Beer,No,Medium,No,Closed,Yes,International,1.3333333333333333,1.6666666666666667,1.1666666666666667
+41,132856,Unicol's Pizza,San Luis Potosi,Wine & Beer,No,Low,No,Closed,Limited,Italian,0.8571428571428571,1.1428571428571428,0.8571428571428571
+42,132858,Hamburguesas Valle Dorado,San Luis Potosi,No,No,Low,No,Closed,Limited,Burgers,0.8,1.4,0.6
+43,132861,Carl's Jr,San Luis Potosi,No,No,Medium,Yes,Closed,Yes,Burgers,1.4285714285714286,1.5714285714285714,1.4285714285714286
+44,132862,La Posada Del Virrey,San Luis Potosi,Wine & Beer,No,High,No,Closed,Valet,International,1.3888888888888888,1.3888888888888888,1.4444444444444444
+45,132866,Chaires,San Luis Potosi,No,No,Medium,No,Closed,Yes,Bakery,1.4,1.4,1.4
+46,132866,Chaires,San Luis Potosi,No,No,Medium,No,Closed,Yes,Cafeteria,1.4,1.4,1.4
+47,132869,Dominos Pizza,San Luis Potosi,No,No,Medium,No,Closed,Yes,Pizzeria,1.1666666666666667,1.3333333333333333,1.1666666666666667
+48,132870,Tortas Y Hamburguesas El Gordo,San Luis Potosi,No,No,Low,No,Closed,Limited,Burgers,0.6,1.0,0.4
+49,132872,Pizzeria Julios,San Luis Potosi,No,No,Medium,No,Closed,Public,American,0.9166666666666666,1.1666666666666667,1.1666666666666667
+50,132875,Shi Ro Ie,San Luis Potosi,Wine & Beer,Smoking Section,High,Yes,Open,Valet,Japanese,1.125,1.25,1.125
+51,132877,Sirloin Stockade,San Luis Potosi,No,No,Low,No,Closed,Limited,Free,0.75,0.75,1.0
+52,132884,Dairy Queen,San Luis Potosi,No,No,Low,No,Closed,Limited,Free,1.1666666666666667,1.1666666666666667,1.1666666666666667
+53,132885,Hamburguesas Saul,San Luis Potosi,No,No,Low,No,Closed,Public,Cafeteria,0.6,0.6,0.4
+54,132921,Crudalia,San Luis Potosi,Wine & Beer,Smoking Section,Low,No,Open,Limited,Bar,1.2352941176470589,1.1176470588235294,0.8823529411764706
+55,132922,Cafe Punta Del Cielo,San Luis Potosi,No,Yes,Medium,No,Closed,Limited,Cafeteria,1.8333333333333333,1.5,1.8333333333333333
+56,132925,El Pueblito,San Luis Potosi,Wine & Beer,No,Medium,No,Closed,Limited,Mexican,1.0,1.2,1.2
+57,132937,Rockabilly ,San Luis Potosi,Full Bar,Smoking Section,Low,No,Closed,Limited,Bar,1.5,1.0,1.0
+58,132951,Vips,San Luis Potosi,No,No,Low,No,Closed,Yes,American,1.0,0.9,0.9
+59,132954,La Parroquia,San Luis Potosi,No,No,Medium,Yes,Closed,Yes,Breakfast,1.0,0.7777777777777778,0.8888888888888888
+60,132955,Emilianos,San Luis Potosi,Wine & Beer,No,Low,Yes,Closed,Limited,Brewery,2.0,1.8,1.8
+61,132958,Tacos Los Volcanes,San Luis Potosi,No,No,Low,Yes,Closed,Limited,American,1.6666666666666667,1.5,1.5
+62,134975,Rincon Del Bife,Cuernavaca,Full Bar,Smoking Section,High,No,Closed,Valet,Free,1.6666666666666667,1.3333333333333333,1.3333333333333333
+63,134976,Log Yin,Cuernavaca,No,No,Low,No,Closed,Yes,Mexican,1.75,1.75,1.0
+64,134976,Log Yin,Cuernavaca,No,No,Low,No,Closed,Yes,Mediterranean,1.75,1.75,1.0
+65,134976,Log Yin,Cuernavaca,No,No,Low,No,Closed,Yes,Burgers,1.75,1.75,1.0
+66,134983,Restaurant And Bar And Clothesline Carlos N Charlies,Cuernavaca,Full Bar,Smoking Section,High,No,Closed,Yes,Bar,1.0,1.0,1.2
+67,134983,Restaurant And Bar And Clothesline Carlos N Charlies,Cuernavaca,Full Bar,Smoking Section,High,No,Closed,Yes,Brewery,1.0,1.0,1.2
+68,134986,Restaurant Las Mañanitas,Cuernavaca,Wine & Beer,No,High,No,Closed,Yes,International,2.0,2.0,2.0
+69,134987,Chilis Cuernavaca,Cuernavaca,Wine & Beer,No,Medium,No,Closed,Limited,Free,1.0,0.5,1.0
+70,134992,Restaurant Teely,Cuernavaca,Wine & Beer,Smoking Section,High,No,Closed,Yes,Free,1.0,1.5,1.0
+71,134996,Sanborns Casa Piedra,Cuernavaca,Wine & Beer,Bar Only,Medium,Yes,Closed,Yes,Free,1.5555555555555556,1.3333333333333333,1.5555555555555556
+72,134999,Kiku Cuernavaca,Cuernavaca,No,No,Medium,No,Closed,Limited,Japanese,1.6,1.6,1.6
+73,135000,Restaurant Los Pinos,Cuernavaca,No,No,Medium,No,Closed,Limited,Free,1.25,1.0,1.0
+74,135001,Vips,Cuernavaca,Wine & Beer,No,Medium,Yes,Closed,Yes,Free,1.4285714285714286,1.4285714285714286,1.5714285714285714
+75,135011,Los Vikingos,Cuernavaca,No,No,Medium,Yes,Closed,Limited,Free,1.3333333333333333,1.3333333333333333,1.3333333333333333
+76,135013,Giovannis,Cuernavaca,No,No,Low,No,Closed,Limited,Free,1.75,2.0,1.75
+77,135016,Arrachela Grill,Cuernavaca,No,No,Medium,No,Closed,Limited,Free,1.0,1.3333333333333333,1.0
+78,135018,El Oceano Dorado,Cuernavaca,Full Bar,Yes,Medium,No,Open,Yes,Mexican,1.5,1.75,1.5
+79,135019,Restaurant Bar Coty Y Pablo,Jiutepec,No,No,Low,No,Closed,Limited,Bar,1.3333333333333333,1.5,0.8333333333333334
+80,135021,Subway,Cuernavaca,No,No,Low,Yes,Closed,Public,Fast Food,1.3333333333333333,1.1111111111111112,0.6666666666666666
+81,135025,El Rincon De San Francisco,San Luis Potosi,No,No,Medium,No,Closed,Limited,Mexican,1.6666666666666667,1.4666666666666666,1.6
+82,135026,La Cantina,San Luis Potosi,Full Bar,No,High,No,Closed,Limited,Bar,1.3636363636363635,1.1818181818181819,1.4545454545454546
+83,135026,La Cantina,San Luis Potosi,Full Bar,No,High,No,Closed,Limited,Brewery,1.3636363636363635,1.1818181818181819,1.4545454545454546
+84,135027,Restaurant Orizatlan,San Luis Potosi,Wine & Beer,No,Medium,No,Closed,Limited,Mexican,0.875,1.375,1.0
+85,135028,La Virreina,San Luis Potosi,Wine & Beer,No,Medium,No,Closed,Limited,Mexican,1.5333333333333334,1.4,1.2666666666666666
+86,135030,Preambulo Wifi Zone Cafe,San Luis Potosi,No,No,Medium,No,Closed,Limited,Coffee Shop,1.5833333333333333,1.3333333333333333,1.4166666666666667
+87,135030,Preambulo Wifi Zone Cafe,San Luis Potosi,No,No,Medium,No,Closed,Limited,Cafeteria,1.5833333333333333,1.3333333333333333,1.4166666666666667
+88,135032,Cafeteria Y Restaurant El Pacifico,San Luis Potosi,Wine & Beer,Smoking Section,Medium,No,Closed,Public,Cafeteria,1.1785714285714286,1.0714285714285714,1.0714285714285714
+89,135032,Cafeteria Y Restaurant El Pacifico,San Luis Potosi,Wine & Beer,Smoking Section,Medium,No,Closed,Public,Contemporary,1.1785714285714286,1.0714285714285714,1.0714285714285714
+90,135033,Restaurant El Muladar De Calzada,San Luis Potosi,No,Smoking Section,Medium,No,Closed,Limited,Free,0.75,0.75,1.25
+91,135034,Michiko Restaurant Japones,San Luis Potosi,No,No,Medium,No,Closed,Limited,Japanese,2.0,2.0,1.6
+92,135035,El Mundo De La Pasta,San Luis Potosi,No,Smoking Section,High,No,Closed,Yes,Italian,1.5,1.5,1.5
+93,135038,Restaurant La Chalita,San Luis Potosi,No,Smoking Section,Medium,No,Closed,Limited,Free,1.2083333333333333,1.1666666666666667,0.9583333333333334
+94,135039,Restaurant De Mariscos De Picon,San Luis Potosi,No,Smoking Section,Low,No,Closed,Yes,Seafood,1.25,1.1666666666666667,0.9166666666666666
+95,135040,Restaurant Los Compadres,San Luis Potosi,Wine & Beer,No,High,No,Closed,Yes,Free,0.25,0.25,0.25
+96,135041,Luna Cafe,San Luis Potosi,Wine & Beer,No,Medium,No,Closed,Limited,Bar,1.1764705882352942,1.1764705882352942,1.0
+97,135041,Luna Cafe,San Luis Potosi,Wine & Beer,No,Medium,No,Closed,Limited,Cafeteria,1.1764705882352942,1.1764705882352942,1.0
+98,135042,Restaurant Oriental Express,San Luis Potosi,No,No,Medium,No,Closed,Limited,Chinese,1.25,1.25,1.15
+99,135043,Pizza Clasica,San Luis Potosi,No,No,Medium,No,Closed,Limited,Fast Food,0.8888888888888888,1.1111111111111112,1.1111111111111112
+100,135043,Pizza Clasica,San Luis Potosi,No,No,Medium,No,Closed,Limited,Pizzeria,0.8888888888888888,1.1111111111111112,1.1111111111111112
+101,135044,Restaurant Wu Zhuo Yi,San Luis Potosi,No,No,Medium,No,Closed,Limited,Chinese,1.25,1.25,1.0
+102,135045,Restaurante La Gran Via,San Luis Potosi,Wine & Beer,No,High,No,Closed,Yes,Free,1.4615384615384615,1.3076923076923077,1.3076923076923077
+103,135046,Restaurante El Reyecito,San Luis Potosi,No,No,Medium,No,Closed,Yes,Fast Food,1.2727272727272727,1.2727272727272727,0.8181818181818182
+104,135047,Restaurante Casa De Las Flores,San Luis Potosi,Wine & Beer,Smoking Section,High,No,Closed,Yes,Free,1.1,1.2,1.1
+105,135048,Restaurante Bar Fu-Hao,San Luis Potosi,Wine & Beer,No,High,No,Closed,Yes,Bar,1.0,1.3333333333333333,1.3333333333333333
+106,135049,Restaurante De Mariscos La Langosta,San Luis Potosi,No,No,Medium,No,Closed,Limited,Seafood,1.0,0.6,1.0
+107,135050,Restaurante La Estrella De Dima,San Luis Potosi,Wine & Beer,No,High,No,Closed,Yes,Free,1.25,1.25,1.0
+108,135051,Restaurante Versalles,San Luis Potosi,No,Smoking Section,Low,No,Closed,Limited,Free,1.4285714285714286,1.2857142857142858,1.0714285714285714
+109,135052,La Cantina Restaurante,San Luis Potosi,Full Bar,No,High,No,Closed,Limited,Bar,1.28,1.16,1.16
+110,135052,La Cantina Restaurante,San Luis Potosi,Full Bar,No,High,No,Closed,Limited,Brewery,1.28,1.16,1.16
+111,135053,La Fontana Pizza Restaurante And Cafe,San Luis Potosi,No,Smoking Section,High,No,Closed,Yes,Cafeteria,1.125,1.0,0.75
+112,135053,La Fontana Pizza Restaurante And Cafe,San Luis Potosi,No,Smoking Section,High,No,Closed,Yes,Fast Food,1.125,1.0,0.75
+113,135053,La Fontana Pizza Restaurante And Cafe,San Luis Potosi,No,Smoking Section,High,No,Closed,Yes,Pizzeria,1.125,1.0,0.75
+114,135054,Restaurante Y Pescaderia Tampico,San Luis Potosi,No,No,High,No,Closed,Yes,Seafood,1.0,0.9,1.0
+115,135055,La Cochinita Pibil Restaurante Yucateco,San Luis Potosi,No,Smoking Section,High,No,Closed,Yes,Mexican,1.7142857142857142,1.7142857142857142,1.7142857142857142
+116,135057,El Herradero Restaurante And Bar,San Luis Potosi,Wine & Beer,Smoking Section,Medium,No,Closed,Yes,Bar,1.2666666666666666,1.3333333333333333,1.3333333333333333
+117,135058,Restaurante Tiberius,San Luis Potosi,No,No,Medium,Yes,Closed,Public,Pizzeria,1.1111111111111112,1.0,1.0
+118,135059,Restaurant Bar Hacienda Los Martinez,San Luis Potosi,Wine & Beer,Smoking Section,Medium,No,Closed,Yes,Bar,1.6666666666666667,1.4444444444444444,1.3333333333333333
+119,135060,Restaurante Marisco Sam,San Luis Potosi,No,No,Medium,No,Closed,Limited,Seafood,1.1363636363636365,1.0454545454545454,1.2727272727272727
+120,135062,Restaurante El Cielo Potosino,San Luis Potosi,No,No,Medium,No,Closed,Yes,Free,1.2380952380952381,1.2380952380952381,1.0952380952380953
+121,135063,Restaurante Alhondiga,San Luis Potosi,No,No,Medium,No,Closed,Limited,Free,1.25,1.0,1.25
+122,135064,Restaurante El Chivero S.A. De C.V.,San Luis Potosi,No,No,High,No,Closed,Yes,Free,0.8823529411764706,1.0588235294117647,0.7058823529411765
+123,135065,El Angel Restaurante,San Luis Potosi,Wine & Beer,Smoking Section,High,No,Closed,Limited,Free,1.1111111111111112,1.1111111111111112,0.8888888888888888
+124,135066,Restaurante Guerra,San Luis Potosi,Wine & Beer,Smoking Section,High,No,Closed,Yes,Free,1.5,1.0,1.3333333333333333
+125,135069,Abondance Restaurante Bar,San Luis Potosi,Wine & Beer,No,Low,No,Closed,Yes,Bar,0.5,0.5,0.75
+126,135070,Restaurante 75,San Luis Potosi,No,No,Medium,No,Closed,Yes,Free,0.875,1.0,0.75
+127,135071,Restaurante La Cantina,San Luis Potosi,Full Bar,Smoking Section,Medium,No,Closed,Yes,Bar,1.0,0.7777777777777778,0.7777777777777778
+128,135071,Restaurante La Cantina,San Luis Potosi,Full Bar,Smoking Section,Medium,No,Closed,Yes,Brewery,1.0,0.7777777777777778,0.7777777777777778
+129,135072,Sushi Itto,San Luis Potosi,No,No,Medium,No,Closed,Limited,Japanese,1.25,1.375,1.25
+130,135073,Restaurante Bar El Gallinero,San Luis Potosi,Wine & Beer,Smoking Section,High,No,Closed,Yes,Bar,1.5,1.5,1.0
+131,135073,Restaurante Bar El Gallinero,San Luis Potosi,Wine & Beer,Smoking Section,High,No,Closed,Yes,Brewery,1.5,1.5,1.0
+132,135074,Restaurante La Parroquia Potosina,San Luis Potosi,Wine & Beer,Smoking Section,High,No,Closed,Public,Contemporary,1.75,1.75,1.75
+133,135075,Mariscos El Pescador,San Luis Potosi,No,No,Medium,No,Closed,Yes,Seafood,1.6923076923076923,1.6923076923076923,1.4615384615384615
+134,135076,Restaurante Pueblo Bonito,San Luis Potosi,Wine & Beer,No,High,No,Closed,Yes,Free,1.3076923076923077,1.5384615384615385,1.0769230769230769
+135,135079,Koye Sushi,San Luis Potosi,No,No,High,No,Closed,Limited,Chinese,1.1764705882352942,1.1176470588235294,0.9411764705882353
+136,135080,Los Toneles,San Luis Potosi,No,Smoking Section,High,No,Closed,Limited,Free,1.0,1.0,1.0
+137,135081,El Club,San Luis Potosi,No,No,Medium,No,Closed,Limited,Free,1.1818181818181819,1.4545454545454546,1.2727272727272727
+138,135082,La Estrella De Dimas,San Luis Potosi,No,No,Medium,No,Closed,Limited,Free,0.7777777777777778,0.7777777777777778,0.6666666666666666
+139,135085,Tortas Locas Hipocampo,San Luis Potosi,No,No,Medium,No,Closed,Public,Fast Food,1.3333333333333333,1.4722222222222223,1.1666666666666667
+140,135086,McDonalds Parque Tangamanga,San Luis Potosi,No,No,Medium,Yes,Closed,Yes,Burgers,0.8,0.6,0.8
+141,135086,McDonalds Parque Tangamanga,San Luis Potosi,No,No,Medium,Yes,Closed,Yes,Fast Food,0.8,0.6,0.8
+142,135088,Cafeteria Cenidet,Cuernavaca,No,No,Low,No,Closed,Public,Cafeteria,1.0,1.1666666666666667,1.0
+143,135104,Vips,Ciudad Victoria,Full Bar,No,Medium,Yes,Closed,Yes,Mexican,0.8571428571428571,1.4285714285714286,0.8571428571428571
+144,135106,El Rincón De San Francisco,San Luis Potosi,Wine & Beer,Bar Only,Medium,No,Open,Limited,Mexican,1.2,1.2,1.2
+145,135108,Potzocalli,San Luis Potosi,No,No,Low,No,Closed,Limited,Free,1.1818181818181819,1.1818181818181819,1.0
+146,135109,Paniroles,Cuernavaca,Wine & Beer,No,Medium,No,Closed,Limited,Italian,1.0,1.25,0.75
